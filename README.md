@@ -7,7 +7,7 @@ This repository is a demonstration of computer vision as a quality assurance ass
 
 ## Dataset
 
-_North Eastern Univeristy Surface Defect Database_. The database is difficult to track down, but [this link](https://github.com/abin24/Surface-Inspection-defect-detection-dataset) provides a way to access it.
+_North Eastern Univeristy (NEU) Surface Defect Database_. The database is difficult to track down, but [this link](https://github.com/abin24/Surface-Inspection-defect-detection-dataset) provides a way to access it.
 
 Each image is labelled with the first two characters specifying it's defect type, which may be decoded using the table below.
 
@@ -20,11 +20,11 @@ Each image is labelled with the first two characters specifying it's defect type
 | RS | Rolled-in Scale |
 | Sc | Scratches |
 
-_For a complete view of the dataset, please refer to the NEU_Dataset directory_
+### Dataset Examples: 
 
-### Example Image: `Sc_182.bmp`
+![](Dataset_Example.jpg)
 
-![](NEU_Dataset/Sc_182.bmp)
+[Source: NEU](http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html)
 
 
 
